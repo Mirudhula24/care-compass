@@ -39,24 +39,6 @@ Emergency departments are overwhelmed. With rising patient volumes and limited s
 *   **State/Data**: React Query, Supabase (Integration)
 *   **Routing**: React Router
 
-## 🚀 Getting Started
-
-1.  **Clone the Repository**
-    ```bash
-    git clone https://github.com/Mirudhula24/care-compass.git
-    cd care-compass
-    ```
-
-2.  **Install Dependencies**
-    ```bash
-    npm install
-    ```
-
-3.  **Run Locally**
-    ```bash
-    npm run dev
-    ```
-    Open `http://localhost:8080` to view the dashboard.
 
 ## 🔮 Future Roadmap
 *   **Wearable Integration**: Direct feed from Apple Watch/Fitbi vitals during waiting.
