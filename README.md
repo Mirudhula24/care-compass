@@ -1,4 +1,4 @@
-# 🏥 Care Compass
+# 🏥 Smart Triage
 ### AI-Powered Healthcare Triage & Resource Management System
 
 ![Project Banner](public/dashboard-preview.png)
@@ -8,7 +8,7 @@
 Emergency departments are overwhelmed. With rising patient volumes and limited staff, **wait times increase**, **staff burnout peaks**, and critical "golden hour" moments for patient care are lost in the chaos. Triage nurses are forced to make high-stakes decisions with limited data and immense pressure.
 
 ## 💡 The Solution
-**Care Compass** is an intelligent operational platform designed to streamline emergency intake, prioritize cases dynamically, and optimize resource allocation in real-time. It acts as a force multiplier for healthcare staff, ensuring the right patient gets the right care at the right time.
+**Smart Triage** is an intelligent operational platform designed to streamline emergency intake, prioritize cases dynamically, and optimize resource allocation in real-time. It acts as a force multiplier for healthcare staff, ensuring the right patient gets the right care at the right time.
 
 ## ✨ Key Features
 
@@ -47,4 +47,4 @@ Emergency departments are overwhelmed. With rising patient volumes and limited s
 
 ---
 
-Made with ❤️ by the **Care Compass Team** for **Project Day 2026**
+Made with ❤️ by the **Smart Triage Team** for **Project Day 2026**
